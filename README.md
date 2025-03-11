@@ -36,8 +36,8 @@ To ensure `yt-dlp` can properly merge video and audio, install `ffmpeg` by follo
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/hellopentester/Youtube-Downloader.git
+   cd Youtube-Downloader
    ```
 2. **Install dependencies:**
    ```sh
